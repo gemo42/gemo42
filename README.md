@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1 align="center">RichardHB 👨‍💻</h1>
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Richard%20Hernandez&fontSize=70&fontColor=0f0&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20Informático%20%7C%7C%20Full%20Stack%20Dev&descAlignY=55&descSize=25&descColor=fff&stroke=0f0&strokeWidth=2)
   <h3 align="center">Ingeniero Informático & Full Stack Developer</h3>
 
   <br/>
@@ -12,9 +12,11 @@
   <br/>
   <br/>
 
-  <p align="center"> 
-     Soy un desarrollador apasionado por crear experiencias web inmersivas y arquitecturas robustas. Actualmente construyendo cosas increíbles en el ecosistema JavaScript.
-  </p>
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=435&lines=Ingeniero+Inform%C3%A1tico;Full+Stack+Developer;React+%2F+Node.js+%2F+Three.js;Creando+Experiencias+Web+Inmersivas" alt="Typing SVG" />
+    </a>
+  </div>
 
   <br/>
 
