@@ -3,8 +3,10 @@
   <h1 align="center">RichardHB 👨‍💻</h1>
   <h3 align="center">Ingeniero Informático & Full Stack Developer</h3>
 
+  <br/>
+
   <a href="https://portafolio-ashy-alpha.vercel.app">
-    <img src="https://img.shields.io/badge/ACCESS_SYSTEM-PORTFOLIO_OS-0f0?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio OS" />
+    <img src="https://img.shields.io/badge/🚀_VISITAR_PORTAFOLIO_INTERACTIVO-000?style=for-the-badge&logo=vercel&logoColor=white&color=00f2ea" alt="Portfolio OS" />
   </a>
 
   <br/>
@@ -13,6 +15,8 @@
   <p align="center"> 
      Soy un desarrollador apasionado por crear experiencias web inmersivas y arquitecturas robustas. Actualmente construyendo cosas increíbles en el ecosistema JavaScript.
   </p>
+
+  <br/>
 
   <h3>🛠 Tech Stack</h3>
   <p align="center">
@@ -23,16 +27,6 @@
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </p>
-
-  <h3>📊 GitHub Activity</h3>
-  
-  <a href="https://github.com/gemo42">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemo42&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemo42&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0f0&hide=html,css" alt="Top Langs" />
 
   <br/>
   <br/>
