@@ -1,11 +1,45 @@
-### Hola, soy RichardHB👋
-Ingeniero Informático & Full Stack Developer.
+<div align="center">
+  
+  <h1 align="center">Hola, soy Richard Hernández 👨‍💻</h1>
+  <h3 align="center">Ingeniero Informático & Full Stack Developer</h3>
 
-**MIRA MI PORTAFOLIO INTERACTIVO:** (https://portafolio-ashy-alpha.vercel.app)
-> He construido mi portafolio con un estilo de escritorio donde puedes ver mis proyectos, interaccionar, ver mi CV y uno que otro easter egg.
+  <a href="https://portafolio-ashy-alpha.vercel.app">
+    <img src="https://img.shields.io/badge/ACCESS_SYSTEM-PORTFOLIO_OS-0f0?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio OS" />
+  </a>
 
----
-**Mis Proyectos Destacados:**
-- 🏋️‍♂️ **Valfit Gym:** Plataforma de alto rendimiento (React + Tailwind).
-- 🎮 **Minecraft Tools:** Visualizador 3D y utilidades (Three.js).
-- 🐉 **Tattoo Studio:** Landing page inmersiva (Neon UI).
+  <br/>
+  <br/>
+
+  <p align="left"> 
+     Soy un desarrollador apasionado por crear experiencias web inmersivas y arquitecturas robustas. Actualmente construyendo cosas increíbles en el ecosistema JavaScript.
+  </p>
+
+  <h3>🛠  Tech Stack</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+
+  <h3>📊 GitHub Analytics</h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gemo42&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0f0&icon_color=0f0" height="150" alt="Richard's Github Stats" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemo42&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0f0" height="150" alt="Top Langs" />
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/richard-francisco-hernández-bastias/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="mailto:richard.hernandez42q@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    </a>
+  </div>
+
+</div>
