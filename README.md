@@ -36,7 +36,6 @@
   </div>
 
 </div>
-### 🐍 My Contributions
 <div align="center">
   <img src="https://github.com/gemo42/gemo42/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
