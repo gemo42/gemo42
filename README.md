@@ -14,6 +14,25 @@
 
   <br/><br/>
 
+  <div>
+    <a href="https://kuro-manifesto.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/KURO--MANIFESTO-crimson?style=for-the-badge&logo=target&logoColor=white" height="28" />
+    </a>
+    <a href="https://tattoo-studio-2hxcx0o43-gemo42s-projects.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/TATTOO--STUDIO-111?style=for-the-badge&logo=inkscape&logoColor=white" height="28" />
+    </a>
+  </div>
+  <div style="margin-top: 5px;">
+    <a href="https://valfit.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/VALFIT-FFD700?style=for-the-badge&logo=fitbit&logoColor=black" height="28" />
+    </a>
+    <a href="https://electrolit.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/ELECTROLIT-0052FF?style=for-the-badge&logo=bolt&logoColor=white" height="28" />
+    </a>
+  </div>
+
+  <br/>
+
   <h3>🛠 Tech Stack</h3>
   <div>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -36,6 +55,7 @@
   </div>
 
 </div>
+
 <div align="center">
   <img src="https://github.com/gemo42/gemo42/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
