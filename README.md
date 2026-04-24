@@ -15,6 +15,9 @@
   <br/><br/>
 
   <div>
+    <a href="https://www.telasky.cl" target="_blank">
+      <img src="https://img.shields.io/badge/TELASKY-00B4DB?style=for-the-badge&logo=icloud&logoColor=white" height="28" />
+    </a>
     <a href="https://kuro-manifesto.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/KURO--MANIFESTO-crimson?style=for-the-badge&logo=target&logoColor=white" height="28" />
     </a>
